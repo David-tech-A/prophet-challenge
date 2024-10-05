@@ -43,4 +43,4 @@ This project analyzes MercadoLibre's Google search traffic data and stock price 
 3. Run the cells sequentially to reproduce the analysis
 
 ## Contributors
-- [David Melara]
+- David Melara
